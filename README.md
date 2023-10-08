@@ -13,7 +13,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dametoou)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" alt="Banner" src="https://i.pinimg.com/originals/4c/c2/3a/4cc23ab9f1fcc0efd86ed0c8c5f84b4c.gif">
+![download](https://github.com/dametoou/dametoou/assets/126725601/1d110879-e4d5-442a-823d-67efc6278ecd)
 
 ## Linguagens 🧑🏻‍💻
 
