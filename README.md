@@ -14,7 +14,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por t
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dametoou&layout=compact" />
 </div>
 <br/>
-<img width="100%" align="center" src="https://github.com/dametoou/dametoou/assets/126725601/1d110879-e4d5-442a-823d-67efc6278ecd" />
+<img align="center" src="https://github.com/dametoou/dametoou/assets/126725601/aa85acd4-0aab-4942-9ff1-d01bb9a51415" />
 
 ## Linguagens 🧑🏻‍💻
 
