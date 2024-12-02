@@ -1,8 +1,12 @@
 ## Olá! Eu me chamo Thiago Dameto 👻
 ### Sobre Mim
 
-Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia desde pequeno e buscando me especializar como desenvolvedor Front-End, futuramente como Full-Stack! <br/>
-<b>Em breve novos projetos!</b>
+Meu nome é Thiago Dameto e sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou cursando Ciência da Computação e me dedicando ao aprendizado e desenvolvimento de aplicações utilizando Java como principal linguagem de programação. <br/>
+
+Meu objetivo é me tornar um Engenheiro de Software com uma base sólida em desenvolvimento, arquitetura de sistemas e práticas modernas, como metodologias ágeis e DevOps. Busco sempre aprimorar minhas habilidades para criar soluções eficazes e contribuir para projetos que façam a diferença. <br/>
+
+Sinta-se à vontade para explorar meus repositórios e conectar-se comigo! <b>Em breve novos projetos!</b><br/>
+
 
 ### Redes Sociais
 
